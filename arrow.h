@@ -6,9 +6,9 @@
 #include <QStyleOption>
 #include <QMouseEvent>
 /*
- *Classe Repésentant un flèche
+ *  Classe Repésentant un flèche
  *
- *Auteur: SimonTPT
+ *  Auteur: SimonTPT
  **/
 
 
